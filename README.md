@@ -1,2 +1,2 @@
-# eatwell
+# eatwell2
 une application pour faire la gestions des repas dans les cantines.
